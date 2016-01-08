@@ -1,2 +1,5 @@
 What happens when you initialize a repository? Why do you need to do it?
 I need to commit for the first time.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+It us a temporary repository before going to commit
