@@ -16,3 +16,6 @@ It shows me in an organized way how branches are distributed.
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 The result is that I have all the changes merged.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic save me time but may be risky.
