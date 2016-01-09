@@ -13,3 +13,6 @@ When creating a new version but wanting to keep the previous version as it is.
 
 How do the diagrams help you visualize the branch structure?
 It shows me in an organized way how branches are distributed.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The result is that I have all the changes merged.
