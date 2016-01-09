@@ -7,3 +7,6 @@ It us a temporary repository before going to commit
 
 How can you use the staging area to make sure you have one commit per logical change?
 Verify against master
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When creating a new version but wanting to keep the previous version as it is.
