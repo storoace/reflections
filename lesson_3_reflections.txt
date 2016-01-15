@@ -6,3 +6,6 @@ Because I dont want to upload changes until they are ready to go public.
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 Forks are branches that are in github servers. Clones are branches that had been cloned whether from a remote or a local repository.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+That I can compare through diff the changes that I have made with the ones in github.
